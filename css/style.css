@@ -455,7 +455,18 @@ i.service-icon:hover {
 .mar-bot45 {
 	margin-bottom: 45px;
 }
-
+.mar-bot80 {
+	margin-bottom: 80px;
+}
+.mar-bot90 {
+	margin-bottom: 90px;
+}
+.mar-bot100 {
+	margin-bottom: 100px;
+}
+.mar-bot180 {
+	margin-bottom: 180px;
+}
 
 /*===========================
   --- Sections ----
@@ -474,7 +485,7 @@ section.section {
 /* --- section heading --- */
 .section-header {
 	text-align: center;
-padding-top: 30px;
+padding-top: 5px;
 }
 .section-header h2.section-heading {
 	text-transform: uppercase;
